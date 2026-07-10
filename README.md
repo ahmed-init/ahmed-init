@@ -121,18 +121,6 @@ A backend API supporting authentication, leave workflows, and database integrati
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -151,17 +139,6 @@ A backend API supporting authentication, leave workflows, and database integrati
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🌍 Connect With Me
 
@@ -189,7 +166,7 @@ A backend API supporting authentication, leave workflows, and database integrati
 
 ---
 
-# ⚡ Fun Fact
+# ⚡Make It Happen
 
 ```java
 while (!success) {
@@ -199,12 +176,6 @@ while (!success) {
 }
 ````
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
 <p align="center">
-Happy Coding 🚀
+Happy Building 🚀
 </p>
