@@ -129,15 +129,6 @@ A backend API supporting authentication, leave workflows, and database integrati
 
 </p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 
 # 🌍 Connect With Me
@@ -154,17 +145,6 @@ A backend API supporting authentication, leave workflows, and database integrati
 
 </p>
 
----
-
-# 👀 Profile Views
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
 
 # ⚡Make It Happen
 
