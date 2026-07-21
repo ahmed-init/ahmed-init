@@ -10,24 +10,24 @@ Computer Science Engineering Student • Backend Developer • GenAI Enthusiast
 
 ---
 
-# 🚀 About Me
+# @ahmed.in
 
-🎓 Computer Science Engineering Student
+Computer Science Engineering Student
 
-💡 Passionate about Backend Development, Artificial Intelligence, and building real-world software.
+Passionate about Backend Development, Artificial Intelligence, and building real-world software.
 
-🔭 Currently working on
-- 🤖 GenAI Multi-Agent Copilot
-- 📄 RAG-based Insurance Assistant
-- ⚡ FastAPI Backend APIs
+Currently working on
+- GenAI Multi-Agent Copilot
+- RAG-based Insurance Assistant
+- FastAPI Backend APIs
 
-🌱 Currently learning
+Currently learning
 - AI Agents
 - System Design
 - AWS Cloud
 - Distributed Systems
 
-💬 Ask me about
+Ask me about
 - Python
 - Java
 - FastAPI
@@ -36,13 +36,13 @@ Computer Science Engineering Student • Backend Developer • GenAI Enthusiast
 - LLMs
 - REST APIs
 
-🎯 Goal
+Goal
 
 Build scalable AI-powered products that solve real-world problems and contribute to impactful open-source projects.
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -79,9 +79,9 @@ Build scalable AI-powered products that solve real-world problems and contribute
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🤖 GenAI Multi-Agent Copilot
+## GenAI Multi-Agent Copilot
 
 A FastAPI application that intelligently routes user requests to specialized AI agents using OpenRouter.
 
@@ -95,7 +95,7 @@ A FastAPI application that intelligently routes user requests to specialized AI 
 
 ---
 
-## 📄 RAG Insurance Assistant
+## RAG Insurance Assistant
 
 An AI-powered insurance assistant using semantic search, vector embeddings, and Retrieval-Augmented Generation.
 
@@ -109,7 +109,7 @@ An AI-powered insurance assistant using semantic search, vector embeddings, and 
 
 ---
 
-## 🏢 Employee Leave Management System
+## Employee Leave Management System
 
 A backend API supporting authentication, leave workflows, and database integration.
 
@@ -121,7 +121,7 @@ A backend API supporting authentication, leave workflows, and database integrati
   
 
 
-# 🌍 Connect With Me
+# Connect With Me
 
 <p align="left">
 
@@ -136,7 +136,7 @@ A backend API supporting authentication, leave workflows, and database integrati
 </p>
 
 
-# ⚡Make It Happen
+#  Make It Happen
 
 ```java
 while (!success) {
@@ -147,5 +147,5 @@ while (!success) {
 ````
 
 <p align="center">
-Happy Building 🚀
+Happy Building...!
 </p>
