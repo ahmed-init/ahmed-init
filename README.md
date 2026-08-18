@@ -10,7 +10,7 @@ Computer Science Engineering Student • Backend Developer • GenAI Enthusiast
 
 ---
 
-# @ahmed.in
+#
 
 Computer Science Engineering Student
 
