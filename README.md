@@ -50,4 +50,4 @@ Projects = {
 Goal = "Build scalable AI products and contribute to impactful open source";
 ```
 
-Happy to talk on: [LinkedIn](https://linkedin.com/in/ahamed-jaseem-j-8aab52329) | [Email](mailto:YOUR_EMAIL)
+Let's Build Something Meaningful: [LinkedIn](https://linkedin.com/in/ahamed-jaseem-j-8aab52329) | [Email](mailto:YOUR_EMAIL)
