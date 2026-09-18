@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="quantyx-x banner" width="100%">
+<img src="banner.png" alt="quantyx-x banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Ahamed Jaseem aka quantyx-x</h1>
 
