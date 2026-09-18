@@ -4,8 +4,8 @@
 Identity = {
   Alias: quantyx-x,
   Handle: ahmed-init,
-  Occupation: 2nd Year CSE Student,
-  Focus: "Backend + GenAI"
+  Occupation: 3rd Year CSE Student,
+  Focus: "System Design and Linux Server Administration"
 };
 
 Arsenal = {
