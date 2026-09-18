@@ -10,16 +10,18 @@ Identity = {
 
 Arsenal = {
   Editors: VS Code | IntelliJ IDEA,
-  Tools: Git | Docker | Postman | Maven | Linux,
-  Cloud: AWS
+  Tools: Git | Docker | Postman | Maven
+  SysAdmin: Linux Server Administration
 };
 
 Interests = [
+  Backend Engineering | REST APIs,
   Generative AI | RAG,
   LLMs | AI Agents,
-  Backend Engineering | REST APIs,
   System Design | Distributed Systems,
+  Linux Server Administration
   Vector Databases | Open Source
+  
 ];
 
 Languages = {
@@ -30,14 +32,14 @@ Languages = {
 
 Frameworks = {
   Backend: FastAPI | Spring Boot | Node.js,
-  Databases: MySQL | MongoDB | ChromaDB,
-  AI: LangChain | Hugging Face | Sentence Transformers | Ollama | OpenRouter
+  Databases: MySQL | MongoDB |
+  AI: Ollama | Claude | Agent Orchestration
 };
 
 Status = {
-  Learning: AI Agents | System Design | AWS | Distributed Systems,
+  Learning: AI Agents | System Design | Distributed Systems,
   Building: "Production-ready AI applications",
-  Currently: GenAI Multi-Agent Copilot | RAG Insurance Assistant
+  Currently: Building scalable Systems
 };
 
 Projects = {
