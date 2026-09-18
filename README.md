@@ -5,7 +5,7 @@ Identity = {
   Alias: quantyx-x,
   Handle: ahmed-init,
   Occupation: 3rd Year CSE Student,
-  Focus: "System Design and Linux Server Administration"
+  Focus: "System Design"
 };
 
 Arsenal = {
@@ -19,7 +19,7 @@ Interests = [
   Generative AI | RAG,
   LLMs | AI Agents,
   System Design | Distributed Systems,
-  Linux Server Administration
+  Linux Kernal |
   Vector Databases | Open Source
   
 ];
