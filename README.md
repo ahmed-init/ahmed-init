@@ -1,6 +1,5 @@
 <img src="banner.png" alt="quantyx-x banner" width="100%">
 
-<h1 align="center">Hi 👋, I'm Ahamed Jaseem aka quantyx-x</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Backend+Developer;GenAI+Enthusiast;Java+%7C+Python;Building+Production-Ready+AI+Apps" />
