@@ -46,7 +46,7 @@ Projects = {
   GenAI Multi-Agent Copilot: "FastAPI app routing requests to specialized AI agents via OpenRouter",
   RAG Insurance Assistant: "Semantic search + RAG over insurance policies (ChromaDB, LangChain)",
   Employee Leave Management: "Backend API with auth, leave workflows, MySQL (FastAPI, SQLAlchemy)",
-  Rate Limiter: "API rate limiter using <algorithm> (<stack>)"
+  Rate Limiter: "API rate limiter using Token bucket algorithm using node js and redis"
 };
 
 Goal = "Build scalable AI products and contribute to impactful open source";
