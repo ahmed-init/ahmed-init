@@ -1,5 +1,7 @@
 <div align="center">
 
+</div>
+
 ```text
 ┌────────────────────┐   quantyx-x@ahmed-init
 │ o o o              │   ──────────────────────────────────────────────
@@ -8,9 +10,9 @@
 │  ██████╗  ██╗  ██╗ │   Learning ..... AI Agents, Distributed Systems
 │ ██╔═══██╗ ╚██╗██╔╝ │   Building ..... Production-ready AI applications
 │ ██║   ██║  ╚███╔╝  │   Languages .... Python, Java, C, JS/TS, SQL
-│ ██║▄▄ ██║  ██╔██╗  │   Backend ...... Spring Boot,Fast API, Node.js
+│ ██║▄▄ ██║  ██╔██╗  │   Backend ...... FastAPI, Spring Boot, Node.js
 │ ╚██████╔╝ ██╔╝ ██╗ │   Databases .... MySQL, MongoDB, ChromaDB, Redis
-│  ╚══▀▀═╝  ╚═╝  ╚═╝ │   AI ........... Ollama(My Base model),LangChain,RAG
+│  ╚══▀▀═╝  ╚═╝  ╚═╝ │   AI ........... Ollama, Claude, LangChain, RAG
 │                    │   Tools ........ Git, Docker, Postman, Maven
 │ $ ./build --scale_ │   Editors ...... VS Code, IntelliJ IDEA
 │                    │   Interests .... Linux Kernel, Vector DBs, Open Source
@@ -19,6 +21,8 @@
 ```
 
 <div align="center">
+
+
 
 `Goal: Build scalable AI products and contribute to impactful open source`
 
