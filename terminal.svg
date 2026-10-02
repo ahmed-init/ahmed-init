@@ -5,25 +5,71 @@
     viewBox="0 0 900 470"
     xmlns:c2pa="http://c2pa.org/manifest"
 ><metadata><c2pa:manifest
-        >AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3OGE5MWFjZi02ZjBmLTQ5YjgtOTdlZi1jYTUwYTFmODkwYmIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAgYSoSBFUlC2H/p8UxfyFcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpiNzk3OWQ4Mi03NTU4LTQ3NzQtODg1MC1hMmQyNzFmMmFjMTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoCkISO90IL5/A7cC546WTYgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggaO5g/+Eib2p7njxA4vMHHiaUpOfkXxqU/4YRzeozOAqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGR16QQbJ7QVc7cNlhg1owsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDFdLTH4AbmbKX0yyo/emyojWbJcwqpHl/RxvTpRJsF92RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc4YTkxYWNmLTZmMGYtNDliOC05N2VmLWNhNTBhMWY4OTBiYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI3M2UzNTJkLTFkZDAtNDUwYi04NDU0LWFjZTk5YjAxOTliMHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBo7mD/4SJvanuePEDi8wceJpSk5+RfGpT/hhHN6jM4CqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggmBZ+36EshQS38iIZQw06FK6fBNt2EI0/b+XsH1XHCaKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggI4JboFI5+SX6XldFz3qV8wwsVvM3LIVL7ujcgK/zByZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAPrz5d/OO/oSqlieIcEZTImPkX6ASbv79IWrBF4eMKg55Ndeqg9+3PqJGktXUylAszUMlmQd+FRJ2X7LZvo+/I=</c2pa:manifest></metadata>
+        >AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3YjgzNTc2Yi1jNjhiLTRhZWYtOWY3MC1mYTQzYjI4YWY0ODYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKk87BabXlHHTcxr93JdbWEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2OTAxMmZiMy05MzZmLTQxZDAtOWVlOC1lZmJlNzFkZGNhNWNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoinEX0am9T2d1AQVYOVqxcwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggK76nDIdfhk1zGrv32YbTP3D1lXfddgRMRbIyedl0D1GkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEQ8Kl5dgEcXwXnlb9kdY0sAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC89y5b3l6+RgQA79zpDm1bIxnfntA4oPDUZY4jI35zjGRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjdiODM1NzZiLWM2OGItNGFlZi05ZjcwLWZhNDNiMjhhZjQ4Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmZmODAxMjMzLTcyOTQtNGI0Mi05YmU0LTJhNjg4MTNmN2VmMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCArvqcMh1+GTXMau/fZhtM/cPWVd912BExFsjJ52XQPUaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggN0AjPYi+pPqSOmD0LNyQx5v5rycs1yemRDH4TPTKzh+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgggTYSiCt/e7Ri0I+g9I6pR7A7pyEP2GLzJEIIXFuP9k50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKfkIRvNAvlWzqewg2NijbtY0wM4IzTy6+Xw3kfNzVYPT9GO3vqDf81+kn5FONNQR2mi1iLvVNWR1erVbhbejVg=</c2pa:manifest></metadata>
 <defs>
+<clipPath id="card"><polygon
+                points="10,10 866,10 890,34 890,460 34,460 10,436"
+            /></clipPath>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop
                 offset="0"
-                stop-color="#0d0221"
-            /><stop offset="1" stop-color="#1a0638" /></linearGradient>
-<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop
+                stop-color="#070707"
+            /><stop offset="1" stop-color="#1c0306" /></linearGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="1"><stop
                 offset="0"
-                stop-color="#00f0ff"
-            /><stop offset="0.5" stop-color="#b026ff" /><stop
+                stop-color="#ff2d3f"
+            /><stop offset=".5" stop-color="#ff2d3f" stop-opacity=".15" /><stop
                 offset="1"
-                stop-color="#ff00e5"
+                stop-color="#ff2d3f"
+            /></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop
+                offset="0"
+                stop-color="#fff"
+                stop-opacity=".12"
+            /><stop
+                offset="1"
+                stop-color="#fff"
+                stop-opacity="0"
             /></linearGradient>
 <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1"><stop
                 offset="0"
-                stop-color="#00f0ff"
-            /><stop offset="1" stop-color="#ff00e5" /></linearGradient>
+                stop-color="#ffffff"
+            /><stop offset=".4" stop-color="#ff2d3f" /><stop
+                offset="1"
+                stop-color="#6e000e"
+            /></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop
+                offset="0"
+                stop-color="#ff2d3f"
+                stop-opacity="0"
+            /><stop offset=".5" stop-color="#ff2d3f" stop-opacity=".55" /><stop
+                offset="1"
+                stop-color="#ff2d3f"
+                stop-opacity="0"
+            /></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop
+                offset="0"
+                stop-color="#ff2d3f"
+            /><stop offset="1" stop-color="#6e000e" /></linearGradient>
+<pattern
+            id="hatch"
+            width="10"
+            height="10"
+            patternUnits="userSpaceOnUse"
+            patternTransform="rotate(45)"
+        ><line
+                x1="0"
+                y1="0"
+                x2="0"
+                y2="10"
+                stroke="#ff2d3f"
+                stroke-opacity=".18"
+                stroke-width="2"
+            /></pattern>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur
+                stdDeviation="50"
+            /></filter>
 <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur
-                stdDeviation="3"
+                stdDeviation="2.5"
                 result="b"
             /><feMerge><feMergeNode in="b" /><feMergeNode
                     in="SourceGraphic"
@@ -31,479 +77,500 @@
 </defs>
 <style>
 text{font-family:'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace;font-size:14px;white-space:pre}
-.row{animation:show .5s both}
-@keyframes show{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.row{animation:show .45s both}
+@keyframes show{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}
 .cur{animation:blink 1s steps(2) infinite}
 @keyframes blink{50%{opacity:0}}
 .pulse{animation:pulse 3s ease-in-out infinite}
-@keyframes pulse{0%,100%{opacity:.75}50%{opacity:1}}
-.lb{fill:#ff00e5}.vl{fill:#00f0ff}.dim{stroke:#5a3a8a}.gr{fill:#39ff14}
+@keyframes pulse{0%,100%{opacity:.7}50%{opacity:1}}
+.o1{animation:d1 9s ease-in-out infinite}
+@keyframes d1{50%{transform:translate(160px,60px)}}
+.scan{animation:sc 5s linear infinite}
+@keyframes sc{from{transform:translateY(0)}to{transform:translateY(430px)}}
+.lb{fill:#ff2d3f;font-weight:700;letter-spacing:.5px}.vl{fill:#ececec}.dim{stroke:#5a1820}
 </style>
-<rect
-        x="10"
-        y="10"
-        width="880"
-        height="450"
-        rx="14"
-        fill="url(#bg)"
-        stroke="url(#neon)"
-        stroke-width="2"
-        class="pulse"
-        filter="url(#glow)"
-    />
-<rect
-        x="11"
-        y="11"
-        width="878"
-        height="34"
-        rx="13"
+<polygon points="10,10 866,10 890,34 890,460 34,460 10,436" fill="url(#bg)" />
+<g clip-path="url(#card)">
+<circle
+            class="o1"
+            cx="150"
+            cy="140"
+            r="130"
+            fill="#ff1a2e"
+            opacity=".45"
+            filter="url(#blur)"
+        />
+<circle
+            cx="760"
+            cy="400"
+            r="150"
+            fill="#b0001a"
+            opacity=".4"
+            filter="url(#blur)"
+        />
+<rect x="10" y="10" width="26" height="450" fill="url(#hatch)" />
+<rect x="10" y="10" width="5" height="450" fill="url(#bar)" />
+<rect class="scan" x="10" y="12" width="880" height="2" fill="url(#scan)" />
+</g>
+<polygon
+        points="10,10 866,10 890,34 890,460 34,460 10,436"
         fill="#ffffff"
-        fill-opacity="0.04"
+        fill-opacity=".04"
     />
-<circle cx="34" cy="28" r="6" fill="#ff3b6b" />
-<circle cx="56" cy="28" r="6" fill="#fff700" />
-<circle cx="78" cy="28" r="6" fill="#39ff14" />
+<polygon points="10,10 866,10 890,34 890,235 10,235" fill="url(#shine)" />
+<polygon
+        points="10,10 866,10 890,34 890,460 34,460 10,436"
+        fill="none"
+        stroke="url(#rim)"
+        stroke-width="1.8"
+        class="pulse"
+    />
+<rect
+        x="15"
+        y="10"
+        width="875"
+        height="30"
+        fill="#000"
+        fill-opacity=".35"
+        clip-path="url(#card)"
+    />
+<rect x="34" y="21" width="9" height="9" fill="#ff2d3f" fill-opacity="1" />
+<rect x="52" y="21" width="9" height="9" fill="#ff2d3f" fill-opacity="0.55" />
+<rect x="70" y="21" width="9" height="9" fill="#555" fill-opacity="0.55" />
 <text
-        x="450"
-        y="33"
-        text-anchor="middle"
-        fill="#8a6bb8"
-        font-size="12"
-    >quantyx-x@ahmed-init: ~/README.md</text>
+        x="866"
+        y="30"
+        text-anchor="end"
+        fill="#9a666c"
+        font-size="11"
+        letter-spacing="2"
+    >QUANTYX-X // README.MD</text>
 <text
-        x="50"
-        y="110"
+        x="52"
+        y="118"
         fill="url(#logo)"
         font-size="16"
         textLength="172.8"
         lengthAdjust="spacingAndGlyphs"
-        class="row pulse"
+        class="row"
         style="animation-delay:0.0s"
         filter="url(#glow)"
     > ██████╗  ██╗  ██╗</text>
 <text
-        x="50"
-        y="129"
+        x="52"
+        y="137"
         fill="url(#logo)"
         font-size="16"
         textLength="172.8"
         lengthAdjust="spacingAndGlyphs"
-        class="row pulse"
+        class="row"
         style="animation-delay:0.1s"
         filter="url(#glow)"
     >██╔═══██╗ ╚██╗██╔╝</text>
 <text
-        x="50"
-        y="148"
+        x="52"
+        y="156"
         fill="url(#logo)"
         font-size="16"
         textLength="172.8"
         lengthAdjust="spacingAndGlyphs"
-        class="row pulse"
+        class="row"
         style="animation-delay:0.2s"
         filter="url(#glow)"
     >██║   ██║  ╚███╔╝ </text>
 <text
-        x="50"
-        y="167"
+        x="52"
+        y="175"
         fill="url(#logo)"
         font-size="16"
         textLength="172.8"
         lengthAdjust="spacingAndGlyphs"
-        class="row pulse"
+        class="row"
         style="animation-delay:0.3s"
         filter="url(#glow)"
     >██║▄▄ ██║  ██╔██╗ </text>
 <text
-        x="50"
-        y="186"
+        x="52"
+        y="194"
         fill="url(#logo)"
         font-size="16"
         textLength="172.8"
         lengthAdjust="spacingAndGlyphs"
-        class="row pulse"
+        class="row"
         style="animation-delay:0.4s"
         filter="url(#glow)"
     >╚██████╔╝ ██╔╝ ██╗</text>
 <text
-        x="50"
-        y="205"
+        x="52"
+        y="213"
         fill="url(#logo)"
         font-size="16"
         textLength="172.8"
         lengthAdjust="spacingAndGlyphs"
-        class="row pulse"
+        class="row"
         style="animation-delay:0.5s"
         filter="url(#glow)"
     > ╚══▀▀═╝  ╚═╝  ╚═╝</text>
 <text
-        x="50"
-        y="262"
-        class="gr row"
-        style="animation-delay:1s"
-    >$ ./build --scale<tspan class="cur">_</tspan></text>
-<text
-        x="50"
-        y="290"
-        class="row"
-        fill="#8a6bb8"
-        style="animation-delay:1.2s"
-    >build  ........ <tspan fill="#39ff14">passing</tspan></text>
-<text
-        x="50"
-        y="312"
-        class="row"
-        fill="#8a6bb8"
-        style="animation-delay:1.3s"
-    >deploy ........ <tspan fill="#39ff14">scalable</tspan></text>
-<text
-        x="50"
-        y="334"
-        class="row"
-        fill="#8a6bb8"
-        style="animation-delay:1.4s"
-    >status ........ <tspan fill="#fff700">learning</tspan></text>
-<text
-        x="330"
-        y="92"
-        font-size="16"
+        x="52"
+        y="272"
+        fill="#ff2d3f"
         font-weight="700"
-        fill="url(#neon)"
         class="row"
-    >quantyx-x<tspan fill="#8a6bb8">@</tspan>ahmed-init</text>
-<line
-        x1="330"
-        y1="104"
-        x2="850"
-        y2="104"
-        stroke="url(#neon)"
-        stroke-width="1.5"
+        style="animation-delay:1s"
+    >&gt; ./build --scale<tspan class="cur">_</tspan></text>
+<text
+        x="52"
+        y="300"
+        class="row"
+        fill="#8a5a60"
+        style="animation-delay:1.2s"
+    >BUILD  ....... <tspan
+            fill="#ececec"
+            font-weight="700"
+        >PASSING</tspan></text>
+<text
+        x="52"
+        y="322"
+        class="row"
+        fill="#8a5a60"
+        style="animation-delay:1.3s"
+    >DEPLOY ....... <tspan
+            fill="#ececec"
+            font-weight="700"
+        >SCALABLE</tspan></text>
+<text
+        x="52"
+        y="344"
+        class="row"
+        fill="#8a5a60"
+        style="animation-delay:1.4s"
+    >STATUS ....... <tspan
+            fill="#ff2d3f"
+            font-weight="700"
+        >LEARNING</tspan></text>
+<text
+        x="336"
+        y="92"
+        font-size="24"
+        font-weight="800"
+        fill="#ffffff"
+        letter-spacing="2"
+        class="row"
+    >QUANTYX-X <tspan
+            fill="#ff2d3f"
+            font-size="14"
+            letter-spacing="1"
+        >// ahmed-init</tspan></text>
+<rect x="336" y="106" width="70" height="4" fill="#ff2d3f" class="row" />
+<rect
+        x="414"
+        y="107"
+        width="436"
+        height="1.5"
+        fill="#ffffff"
+        fill-opacity=".18"
         class="row"
     />
 <g class="row" style="animation-delay:0.30s">
+<rect x="322" y="129" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="130"
+            x="336"
+            y="138"
             class="lb"
             textLength="33.6"
             lengthAdjust="spacingAndGlyphs"
-        >Role</text>
+        >ROLE</text>
 <line
-            x1="371.6"
-            y1="126"
-            x2="460"
-            y2="126"
+            x1="377.6"
+            y1="134"
+            x2="466"
+            y2="134"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="130" class="vl">3rd Year CSE Student</text>
-</g>
+<text x="476" y="138" class="vl">3rd Year CSE Student</text></g>
 <g class="row" style="animation-delay:0.42s">
+<rect x="322" y="151" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="152"
+            x="336"
+            y="160"
             class="lb"
             textLength="42.0"
             lengthAdjust="spacingAndGlyphs"
-        >Focus</text>
+        >FOCUS</text>
 <line
-            x1="380.0"
-            y1="148"
-            x2="460"
-            y2="148"
+            x1="386.0"
+            y1="156"
+            x2="466"
+            y2="156"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="152" class="vl">System Design</text>
-</g>
+<text x="476" y="160" class="vl">System Design</text></g>
 <g class="row" style="animation-delay:0.54s">
+<rect x="322" y="173" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="174"
+            x="336"
+            y="182"
             class="lb"
             textLength="67.2"
             lengthAdjust="spacingAndGlyphs"
-        >Learning</text>
+        >LEARNING</text>
 <line
-            x1="405.2"
-            y1="170"
-            x2="460"
-            y2="170"
+            x1="411.2"
+            y1="178"
+            x2="466"
+            y2="178"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="174" class="vl">AI Agents, Distributed Systems</text>
-</g>
+<text x="476" y="182" class="vl">AI Agents, Distributed Systems</text></g>
 <g class="row" style="animation-delay:0.66s">
+<rect x="322" y="195" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="196"
+            x="336"
+            y="204"
             class="lb"
             textLength="67.2"
             lengthAdjust="spacingAndGlyphs"
-        >Building</text>
+        >BUILDING</text>
 <line
-            x1="405.2"
-            y1="192"
-            x2="460"
-            y2="192"
+            x1="411.2"
+            y1="200"
+            x2="466"
+            y2="200"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="196" class="vl">Production-ready AI applications</text>
-</g>
+<text x="476" y="204" class="vl">Production-ready AI applications</text></g>
 <g class="row" style="animation-delay:0.78s">
+<rect x="322" y="217" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="218"
+            x="336"
+            y="226"
             class="lb"
             textLength="75.6"
             lengthAdjust="spacingAndGlyphs"
-        >Languages</text>
+        >LANGUAGES</text>
 <line
-            x1="413.6"
-            y1="214"
-            x2="460"
-            y2="214"
+            x1="419.6"
+            y1="222"
+            x2="466"
+            y2="222"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="218" class="vl">Python, Java, C, JS/TS, SQL</text>
-</g>
+<text x="476" y="226" class="vl">Python, Java, C, JS/TS, SQL</text></g>
 <g class="row" style="animation-delay:0.90s">
+<rect x="322" y="239" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="240"
+            x="336"
+            y="248"
             class="lb"
             textLength="58.8"
             lengthAdjust="spacingAndGlyphs"
-        >Backend</text>
+        >BACKEND</text>
 <line
-            x1="396.8"
-            y1="236"
-            x2="460"
-            y2="236"
+            x1="402.8"
+            y1="244"
+            x2="466"
+            y2="244"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="240" class="vl">FastAPI, Spring Boot, Node.js</text>
-</g>
+<text x="476" y="248" class="vl">FastAPI, Spring Boot, Node.js</text></g>
 <g class="row" style="animation-delay:1.02s">
+<rect x="322" y="261" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="262"
+            x="336"
+            y="270"
             class="lb"
             textLength="75.6"
             lengthAdjust="spacingAndGlyphs"
-        >Databases</text>
+        >DATABASES</text>
 <line
-            x1="413.6"
-            y1="258"
-            x2="460"
-            y2="258"
+            x1="419.6"
+            y1="266"
+            x2="466"
+            y2="266"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="262" class="vl">MySQL, MongoDB, ChromaDB, Redis</text>
-</g>
+<text x="476" y="270" class="vl">MySQL, MongoDB, ChromaDB, Redis</text></g>
 <g class="row" style="animation-delay:1.14s">
+<rect x="322" y="283" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="284"
+            x="336"
+            y="292"
             class="lb"
             textLength="16.8"
             lengthAdjust="spacingAndGlyphs"
         >AI</text>
 <line
-            x1="354.8"
-            y1="280"
-            x2="460"
-            y2="280"
+            x1="360.8"
+            y1="288"
+            x2="466"
+            y2="288"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="284" class="vl">Ollama, Claude, LangChain, RAG</text>
-</g>
+<text x="476" y="292" class="vl">Ollama, Claude, LangChain, RAG</text></g>
 <g class="row" style="animation-delay:1.26s">
+<rect x="322" y="305" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="306"
+            x="336"
+            y="314"
             class="lb"
             textLength="42.0"
             lengthAdjust="spacingAndGlyphs"
-        >Tools</text>
+        >TOOLS</text>
 <line
-            x1="380.0"
-            y1="302"
-            x2="460"
-            y2="302"
+            x1="386.0"
+            y1="310"
+            x2="466"
+            y2="310"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="306" class="vl">Git, Docker, Postman, Maven</text>
-</g>
+<text x="476" y="314" class="vl">Git, Docker, Postman, Maven</text></g>
 <g class="row" style="animation-delay:1.38s">
+<rect x="322" y="327" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="328"
+            x="336"
+            y="336"
             class="lb"
             textLength="58.8"
             lengthAdjust="spacingAndGlyphs"
-        >Editors</text>
+        >EDITORS</text>
 <line
-            x1="396.8"
-            y1="324"
-            x2="460"
-            y2="324"
+            x1="402.8"
+            y1="332"
+            x2="466"
+            y2="332"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="328" class="vl">VS Code, IntelliJ IDEA</text>
-</g>
+<text x="476" y="336" class="vl">VS Code, IntelliJ IDEA</text></g>
 <g class="row" style="animation-delay:1.50s">
+<rect x="322" y="349" width="6" height="6" fill="#ff2d3f" />
 <text
-            x="330"
-            y="350"
+            x="336"
+            y="358"
             class="lb"
             textLength="75.6"
             lengthAdjust="spacingAndGlyphs"
-        >Interests</text>
+        >INTERESTS</text>
 <line
-            x1="413.6"
-            y1="346"
-            x2="460"
-            y2="346"
+            x1="419.6"
+            y1="354"
+            x2="466"
+            y2="354"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
-<text x="470" y="350" class="vl">Linux Kernel, Vector DBs, Open Source</text>
-</g>
-<g class="row" style="animation-delay:1.62s">
 <text
-            x="330"
-            y="372"
+            x="476"
+            y="358"
+            class="vl"
+        >Linux Kernel, Vector DBs, Open Source</text></g>
+<g class="row" style="animation-delay:1.62s">
+<rect x="322" y="371" width="6" height="6" fill="#ff2d3f" />
+<text
+            x="336"
+            y="380"
             class="lb"
             textLength="67.2"
             lengthAdjust="spacingAndGlyphs"
-        >Projects</text>
+        >PROJECTS</text>
 <line
-            x1="405.2"
-            y1="368"
-            x2="460"
-            y2="368"
+            x1="411.2"
+            y1="376"
+            x2="466"
+            y2="376"
             class="dim"
             stroke-width="1.5"
-            stroke-dasharray="1 5"
-            stroke-linecap="round"
+            stroke-dasharray="3 4"
         />
 <text
-            x="470"
-            y="372"
+            x="476"
+            y="380"
             class="vl"
-        >Multi-Agent Copilot | RAG Insurance Assistant</text>
-</g>
+        >Multi-Agent Copilot | RAG Insurance Assistant</text></g>
 <g class="row" style="animation-delay:1.74s">
-<text x="470" y="394" class="vl">Leave Management API | Rate Limiter</text>
-</g>
-<rect
-        x="330"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#00f0ff"
+<text x="476" y="402" class="vl">Leave Management API | Rate Limiter</text></g>
+<polygon
+        points="344,426 374,426 366,442 336,442"
+        fill="#ffffff"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.00s"
     />
-<rect
-        x="364"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#39ff14"
+<polygon
+        points="382,426 412,426 404,442 374,442"
+        fill="#ff8a94"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.08s"
     />
-<rect
-        x="398"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#fff700"
+<polygon
+        points="420,426 450,426 442,442 412,442"
+        fill="#ff2d3f"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.16s"
     />
-<rect
-        x="432"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#ff9100"
+<polygon
+        points="458,426 488,426 480,442 450,442"
+        fill="#c4001a"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.24s"
     />
-<rect
-        x="466"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#ff00e5"
+<polygon
+        points="496,426 526,426 518,442 488,442"
+        fill="#8a0011"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.32s"
     />
-<rect
-        x="500"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#b026ff"
+<polygon
+        points="534,426 564,426 556,442 526,442"
+        fill="#4a0008"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.40s"
     />
-<rect
-        x="534"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#6a5cff"
+<polygon
+        points="572,426 602,426 594,442 564,442"
+        fill="#222222"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.48s"
     />
-<rect
-        x="568"
-        y="420"
-        width="30"
-        height="16"
-        rx="3"
-        fill="#ffffff"
+<polygon
+        points="610,426 640,426 632,442 602,442"
+        fill="#0a0a0a"
+        stroke="#fff"
+        stroke-opacity=".15"
         class="row"
         style="animation-delay:2.56s"
     />
