@@ -24,9 +24,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=flat-square&logo=linkedin&logoColor=00f0ff&color=00f0ff)](https://linkedin.com/in/ahamed-jaseem-j-8aab52329)
-[![Email](https://img.shields.io/badge/Email-0d0221?style=flat-square&logo=gmail&logoColor=00f0ff&color=00f0ff)](mailto:YOUR_EMAIL)
-
 `Goal: Build scalable AI products and contribute to impactful open source`
 
 </div>
