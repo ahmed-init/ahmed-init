@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=900&color=FF2D3F&center=true&vCenter=true&width=620&lines=BUILD+SCALABLE+SYSTEMS;LEARN+DISTRIBUTED+SYSTEMS;SHIP+PRODUCTION-READY+AI" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2500&pause=900&color=FF2D3F&center=true&vCenter=true&width=620&lines=THINK-BUILD-SHIP;" alt="typing" />
 
 <br/>
 
