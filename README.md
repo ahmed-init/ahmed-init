@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ahmed-init/ahmed-init/main/terminal.svg" width="100%" alt="quantyx-x terminal"/>
+<img src="https://raw.githubusercontent.com/ahmed-init/ahmed-init/main/terminal.svg" width="100%" alt="Quantyx-x terminal"/>
 
 <br/>
 
